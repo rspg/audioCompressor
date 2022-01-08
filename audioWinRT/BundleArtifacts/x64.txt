@@ -1,0 +1,2 @@
+MainPackage=C:\Users\yuki\source\repos\audioWinRT\x64\Release\audioWinRT\audioWinRT_1.0.0.0_x64.appx
+SymbolPackage=C:\Users\yuki\source\repos\audioWinRT\audioWinRT\x64\Release\Symbols\audioWinRT_1.0.0.0_x64.appxsym

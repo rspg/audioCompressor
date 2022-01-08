@@ -1,0 +1,12 @@
+/.vs/audioWinRT/v16
+/AppPackages/
+/Debug/
+/Release/
+/audioEffect/Generated Files
+/audioEffect/x64/
+/packages/
+/audioWinRT/Debug/
+/audioWinRT/Release/
+/audioWinRT/x64/
+/audioWinRT/Generated Files/
+/x64/

@@ -1,0 +1,8 @@
+namespace audioEffect
+{
+    [default_interface]
+    runtimeclass MyAudioEffect: Windows.Media.Effects.IBasicAudioEffect
+    {
+        MyAudioEffect();   
+    }
+}

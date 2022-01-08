@@ -1,0 +1,17 @@
+namespace audioWinRT
+{
+    [bindable]
+    [default_interface]
+    runtimeclass MainPage : Windows.UI.Xaml.Controls.Page, Windows.UI.Xaml.Data.INotifyPropertyChanged
+    {
+        MainPage();
+
+        Int32 LimitDB;
+        Int32 ReleaseDbPerSecond;
+        Int32 DefaultOutputDeviceIndex;
+        Int32 OutputDeviceIndex;
+        Boolean Playing{ get; };
+        Boolean Stopped{ get; };
+        Windows.Foundation.Collections.IObservableVector<String> SoundDevices{ get; };
+    }
+}
